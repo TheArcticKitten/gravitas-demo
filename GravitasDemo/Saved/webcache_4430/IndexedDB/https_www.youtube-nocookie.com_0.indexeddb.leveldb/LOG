@@ -1,0 +1,6 @@
+2023/06/17-01:35:56.879 736c Creating DB C:/Users/lette/Documents/GitHub/gravitas-demo/GravitasDemo/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb since it was missing.
+2023/06/17-01:35:56.887 736c Reusing MANIFEST C:/Users/lette/Documents/GitHub/gravitas-demo/GravitasDemo/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/06/17-03:05:03.349 1674 Level-0 table #5: started
+2023/06/17-03:05:03.414 1674 Level-0 table #5: 1211 bytes OK
+2023/06/17-03:05:03.416 1674 Delete type=0 #3
+2023/06/17-03:05:03.430 1674 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
