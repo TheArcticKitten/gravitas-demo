@@ -1,7 +1,8 @@
 # gravitas-demo
  working repository
-deez nuts
-get fucked
-LOLMAO
-♥♥♥♥♥
-haha
+
+# resources:
+
+source control:
+ - https://git-lfs.com/
+ - https://medium.com/projectwt/setting-up-git-large-file-storage-for-unreal-engine-projects-1854d6337177
