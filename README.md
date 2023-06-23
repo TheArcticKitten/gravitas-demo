@@ -1,6 +1,9 @@
 # gravitas-demo
  working repository
 
+# design 
+- [design doc](https://docs.google.com/document/d/1TkbFCRQYmSmeASKR4aaSLn6HZ0IRzOGiBzPScO33AsQ/edit)
+
 # resources:
 
 source control:
